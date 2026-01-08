@@ -1,0 +1,6 @@
+Vamos a empezar generando un procedimiento que reciba por correspondencia un 
+arreglo y que presente los valores pares de dicho arreglo mediante un ciclo 
+repetitivo y que estos sean almacenados dentro de una variable de tipo cadena 
+para posteriormente presentarse desde la pagina principal, sin utilizar 
+funciones. Se recorre el valor en cada posicion del arreglo y se comprueba si 
+es par.

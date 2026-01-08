@@ -1,0 +1,4 @@
+La verdad todo las partes del codigo fueron fáciles y no tuve complicaciones.
+Utilize mal el 2 != 0 para sacar los datos pares, lo resolví cambiándolo por:
+%2 == 0. La parte de los ciclos repetitivos anidados ya que permite localizar los diversos 
+valores del arreglo. Mejore al usar correctamente el comando para sacar valores pares.
