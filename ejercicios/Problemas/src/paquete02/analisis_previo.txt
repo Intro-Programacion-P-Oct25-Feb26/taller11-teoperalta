@@ -1,0 +1,7 @@
+El programa pide los nombres de diez casas y el dinero que gastó cada una 
+durante doce meses. El trabajo principal es juntar toida la información para 
+sumar y saber cuánto gastó cada vivienda en total al final del año. Para que
+esto, se usan arreglos unidimensionales y bidimensionales que guardan los datos,
+revisando mes por mes y casa por casa para hacer el total. Al final, el sistema 
+muestra un mensaje que nos dice el nombre de cada hogar junto con la suma total 
+de sus gastos.

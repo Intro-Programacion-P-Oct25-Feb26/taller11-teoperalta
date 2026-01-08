@@ -1,0 +1,6 @@
+Al momento de calcular totales, tenia que utilizar el arreglo bidimensional
+y recorrerlo parte por parte.
+Tuve un problema con los metodos de el programa y con las llaves que no cerraban 
+correctamente. El metodo principal ya que el es el encargado de llamar a todas 
+las funciones para obtener los diferentes valores. A usar correctamente los 
+metodos main e inicial (me guié de un tutorial).
