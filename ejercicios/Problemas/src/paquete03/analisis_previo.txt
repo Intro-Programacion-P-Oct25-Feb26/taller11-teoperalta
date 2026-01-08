@@ -1,0 +1,6 @@
+El programa solicita al usuario que elija una figura geométrica y 
+proporcione las medidas de sus lados, base o altura. El proceso principal
+consiste en identificar la opción seleccionada para realizar el procedimiento. 
+Se utiliza una metodo de selección que evalúa el número ingresado y decide qué 
+proceso de cálculo sde debe activar. Finalmente, el objetivo es calcular el área 
+de la figura elegida y mostrar un mensaje con el resultado.

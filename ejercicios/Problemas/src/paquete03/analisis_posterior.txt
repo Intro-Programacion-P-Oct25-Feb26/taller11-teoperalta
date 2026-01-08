@@ -1,0 +1,4 @@
+Todo el problema me resultó muy sencillo de comprender.Estaba utilizando
+Funciones en lugar de procedimientos que era lo que se indicó. El condicional 
+SI es muy importante puesto que este evalúa la opción seleccionada.
+Aprendí a realizar procedimientos correctamente.
