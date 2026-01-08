@@ -1,0 +1,6 @@
+El programa requiere la identificación personal de un cliente y la elección 
+entre dos tipos de servicios financieros específicos. El proceso principal 
+consiste en recolectar información de consumo eléctrico o el costo de una 
+propiedad para aplicar una operación  que determine el monto a pagar.
+Para esto, se utilizan procedimientos independientes y una estructura de
+control que decide qué cálculo ejecutar basándose en la opción ingresada por el usuario
