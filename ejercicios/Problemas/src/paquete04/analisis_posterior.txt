@@ -1,0 +1,4 @@
+El problema me resultó sencillo en todos los aspectos.
+Tenía que llamar el metodo Scanner en cada procedimiento.
+El procedimiento principal puesto que desarrolla todo el problema en sí.
+A usar correctamente los argumentos.
