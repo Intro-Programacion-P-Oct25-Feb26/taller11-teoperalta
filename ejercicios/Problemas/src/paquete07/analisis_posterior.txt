@@ -1,0 +1,4 @@
+El crear un arreglo sin saber el número de elementos.
+Al momento de invocar funciones, lo corregí haciendo una prueba de escritorio.
+El asignar un valor a cada posición del arreglo.
+A crear arreglos sin saber cuantos elementos tendrá.

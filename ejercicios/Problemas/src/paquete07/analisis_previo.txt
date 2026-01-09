@@ -1,0 +1,6 @@
+El programa primero solicita al usuario que indique cuántas palabras desea 
+guardar en una lista. El proceso principal filtra aquellos que tengan una 
+extensión de cuatro o cinco letras. Para lograr esto, se utilizan funciones que
+crean el arreglo y un ciclo que revisa el tamaño de cada palabra. En el flujo 
+intervienen condiciones que comparan la longitud de cada elemento para decidir 
+si debe mostrarse en pantalla.
