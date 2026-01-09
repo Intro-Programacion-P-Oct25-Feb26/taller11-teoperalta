@@ -1,0 +1,5 @@
+El programa necesita una lista de números y su promedio. Se usa un ciclo que 
+revisa los números uno por uno, elevándolos al cuadrado y sumándolos antes de 
+sacar una raíz cuadrada final. Todo el proceso depende de cuántos números haya 
+en la lista para poder hacer el proceso. Al final, el resultado es un solo
+número decimal que nos indica qué tanto varían los datos entre sí.
