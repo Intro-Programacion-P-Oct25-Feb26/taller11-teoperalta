@@ -1,0 +1,6 @@
+El programa requiere dos conjuntos de datos numéricos. El proceso principal 
+consiste en identificar cada fila para sumar los valores que coinciden en la 
+misma ubicación y almacenar el resultado en una nueva estructura. Se utiliza 
+funciones que miden automáticamente la longitud, empleando ciclos. Finalmente, 
+el objetivo es generar una tabla resultante que sume los valores originales y 
+presentarla en un formato ordenado.

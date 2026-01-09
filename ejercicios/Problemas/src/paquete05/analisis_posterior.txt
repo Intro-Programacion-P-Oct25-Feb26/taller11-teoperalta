@@ -1,0 +1,6 @@
+Me costó comprender que debía hacer con los valores del arreglo puesto que en 
+el ejercicio no se especificaba bien. Me equivoque ya que imprimía todos los 
+valores de manera recta, lo corregí cuando agregue un salto denlínea cada que 
+cambiaba la fila. La funcion de calcular la suma ya que recorre todos los 
+valores de los dos arreglos y los suma. Aprendí a presentar matrices de manera 
+ordenada. 
